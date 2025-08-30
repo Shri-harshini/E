@@ -223,7 +223,6 @@ footer p {
   margin: 5px 0;
 }
 
-/* Animation */
 @keyframes fadeIn {
   from {opacity: 0;}
   to {opacity: 1;}
