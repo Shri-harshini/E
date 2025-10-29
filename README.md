@@ -6,4 +6,7 @@ The website includes several well-organized sections such as the navigation bar,
 Designed with simplicity and elegance in mind, the project uses soft pastel color palettes, smooth hover effects, and a grid-based responsive layout to ensure that it looks great on all devices  from desktops to mobile screens. The sticky navigation bar improves usability, and subtle animations make the browsing experience more engaging without overwhelming the viewer.
 
 This project is ideal for beginners looking to learn how to design aesthetic, user-friendly web pages using just HTML and CSS. It demonstrates how good layout, typography, and color coordination can come together to build a professional-looking website even without JavaScript or backend systems.
+In the future, the project could be enhanced with features like a shopping cart, online payment integration, customer reviews, and a real-time order tracking system.
+
+Created with love and creativity, FloralAura is more than just a website it’s a celebration of design, simplicity, and the art of giving. 🌷
 
